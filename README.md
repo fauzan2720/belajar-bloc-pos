@@ -1,10 +1,10 @@
 # Belajar Flutter Bloc
 
-Selamat datang di proyek **Belajar Flutter Bloc**! Proyek ini didedikasikan untuk mempelajari dan memahami konsep-konsep dasar Flutter Bloc.
+Selamat datang di proyek **Belajar Flutter Bloc**! Proyek ini didedikasikan untuk mempelajari dan memahami flutter bloc dengan studi kasus POS.
 
 ## Deskripsi
 
-Proyek ini bertujuan untuk memberikan pemahaman mendalam tentang penggunaan Flutter Bloc dalam pengembangan aplikasi Flutter. Melalui proyek ini, Anda akan mempelajari penggunaan BlocProvider, BlocBuilder, BlocListener, dan BlocConsumer, yang merupakan elemen inti dari arsitektur Flutter Bloc.
+Proyek ini bertujuan untuk memberikan pemahaman mendalam tentang penggunaan Flutter Bloc dalam pengembangan aplikasi Flutter. Melalui proyek ini, Anda akan mempelajari cara menambahkan quantity, mengurangi quantity, menambahkan produk ke cart, menghapus produk dari cart, dan menghapus semua produk dari cart dengan menyimpan data cart nya ke dalam local storage shared preferences.
 
 ## Cara Menggunakan
 
@@ -15,7 +15,7 @@ Ikuti langkah-langkah di bawah ini untuk mulai menggunakan proyek ini:
 2. Clone repositori ini ke komputer Anda menggunakan perintah berikut:
 
 ```shell
-git clone https://github.com/fauzan2720/belajar-bloc.git
+git clone https://github.com/fauzan2720/belajar-bloc-pos.git
 ```
 
 3. Buka proyek dalam editor kode favorit Anda.
@@ -36,7 +36,7 @@ Pastikan emulator atau perangkat Anda sudah terhubung dan dikonfigurasi dengan b
 
 ## Video Tutorial
 
-Untuk mendapatkan pemahaman yang lebih mendalam tentang proyek ini, kami telah menyediakan video tutorial yang tersedia di [tautan berikut](https://youtu.be/I1NhQba2Y7c).
+Untuk mendapatkan pemahaman yang lebih mendalam tentang proyek ini, kami telah menyediakan video tutorial yang tersedia di [tautan berikut](https://www.youtube.com/watch?v=i277V2gDe8o).
 
 ## Kontribusi
 
